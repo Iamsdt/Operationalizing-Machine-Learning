@@ -287,7 +287,7 @@ We can use this end points to interact with the pipeline.
 
 ## Screen Recording
 
-*TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
+Video is available on [Youtube.](https://www.youtube.com/watch?v=Eg0IMLuZeWY)
 
 
 
